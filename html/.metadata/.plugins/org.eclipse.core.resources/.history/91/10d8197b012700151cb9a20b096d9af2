@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+body {
+	background-image: url("obraz.jpg")
+}
+
+#_Customer{
+	font-size: 14px
+}

@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+
+#_Customer{
+	outline-style: double;
+}
+
+#_Pizza{
+	outline-style: double;
+}
+
+#_date{
+	outline-style: double;
+}
+
+#_data{
+	outline-style: double;
+}
+
+#_but{
+	color: red
+}
+
+
+#_pizzas{
+	outline-style: hidden;
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+}
+
+#_main{
+	border: medium;
+}
+
+#_table{
+	width: 700px;
+	margin: auto;
+		
+}

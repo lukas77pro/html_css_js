@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+body {
+	background-image: url("obraz.jpg")
+}
+
+#_Customer{
+	outline-style: double;
+}
+
+#_Pizza{
+	outline-style: double;
+}
+
+#_date{
+	outline-style: double;
+}
+
+#_data{
+	outline-style: double;
+}
+
+#_but{
+	color: red
+}
+
+.th{
+	margin-left: 50px
+}
