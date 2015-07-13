@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+#Customer {
+	
+} 
+
+#Legend1{
+	font-size: 150%;
+	font-family:  arial;
+}
+
+#LegendMain{
+	font-size: 40px;
+}
+
+table, th, td {
+    border: 2px solid black;
+}

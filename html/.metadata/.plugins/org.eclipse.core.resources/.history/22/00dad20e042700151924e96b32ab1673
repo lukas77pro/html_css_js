@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<legend id="LegendMain">Pizza orders</legend>
+	<table>
+		<tr>
+			<th>Pizza name</th>
+			<th>Pizza type</th>
+			<th>Status</th>
+			<th>Estimated delivery time</th>
+			<th>Delivered</th>
+			<th>Customer</th>
+		</tr>
+		<tr>
+			<td>Margharita</td>
+			<td>Big</td>
+			<td>Status</td>
+			<td>Estimated delivery time</td>
+			<td>false</td>
+			<td>Customer</td>
+		</tr>
+		<tr>
+			<td>Corleone</td>
+			<td>Small</td>
+			<td>Status</td>
+			<td>Estimated delivery time</td>
+			<td>true</td>
+			<td>Customer</td>
+		</tr>
+	</table>
+	
+	<a href="Formularz.html">Back</a>
+	
+</body>
+</html>

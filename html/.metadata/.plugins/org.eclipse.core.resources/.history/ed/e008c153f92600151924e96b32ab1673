@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th>Pizza name</th>
+			<th>Pizza type</th>
+			<th>Status</th>
+			<th>Status</th>
+			<th>Status</th>
+		</tr>
+		<tr>
+			<td>3476896</td>
+			<td>My first HTML</td>
+			<td>$53</td>
+		</tr>
+	</table>
+</body>
+</html>

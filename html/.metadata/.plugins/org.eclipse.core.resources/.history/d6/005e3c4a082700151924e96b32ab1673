@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#Customer {
+	
+}
+
+.HeaderMain{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 22px;
+	
+}
+
+#LegendMain {
+	font-size: 40px;
+}
+
+/* table , th, td {
+    border: 2px solid black;
+    tr:nth-child(odd)		{ background-color:#eee; }
+	tr:nth-child(even)		{ background-color:#fff; }
+} */
+
+
+table {
+	border-bottom: thick single #ffffff;
+	border-top: thick double #ffffff;
+}
+
+tr:nth-child(even):hover {
+  background: pink;
+}
+tr:nth-child(odd):hover {
+  background: lime;
+}

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <server port="8080">
-  <module context="com.comarch.html" name="com.comarch.html" path="C:/Users/Comarch/Documents/html/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/com.comarch.html" type="static"/>
+  <module context="Test" name="Test" path="C:/Users/Comarch/Documents/HTML/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/Test" type="static"/>
 </server>

@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+body {
+    background-image: url("obraz.bmp");
+}
+
+#Customer {
+	font-size: 200%;
+} 
+
+#Legend1{
+	font-size: 150%;
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="Styl.css">
+</head>
+
+<body>
+
+
+	<fieldset id="Customer">
+		<legend id="Customer">Customer</legend>
+		<div>
+			<label for="inputName">Name</label> <input type="text"
+				name="inputName">
+		</div>
+		<div>
+			<label for="inputSurname">Surname</label> <input type="text"
+				name="inputSurname">
+		</div>
+		<div>
+			<label for="inputEmail">Email</label> <input type="text"
+				name="inputEmail">
+		</div>
+		<div>
+			<label for="r1">Type</label> <input type="radio" name="group1"
+				id="r1" value="1" /><label for="r1">Individual</label> <input
+				type="radio" name="group1" id="r2" value="1" /><label for="r2">Bussines</label>
+		</div>
+	</fieldset>
+
+	<fieldset id="Pizza">
+		<legend>Pizza</legend>
+		<div>
+			<label for="inputName">Name</label> <input type="text"
+				name="inputName">
+		</div>
+		<label for="inputName">Type</label> <select name="select">
+			<option value="Small">Small</option>
+			<option value="Normal" selected>Normal</option>
+			<option value="Big">Big</option>
+		</select>
+	</fieldset>
+
+	<fieldset id="Suggested">
+		<legend>Suggested delivery date</legend>
+		<input type="text" name="Date">
+	</fieldset>
+
+	<fieldset id="Additional">
+		<legend>Additional data</legend>
+		<textarea name="textarea" rows="2" cols="50"></textarea>
+	</fieldset>
+	<form>
+		<button type="submit" formaction="Tabela.html">Order pizza</button>
+	</form>
+</body>
+</html>
